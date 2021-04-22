@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AlokNL
+- 👋 Hi, I’m Alok 
+- 
 
 <!---
 AlokNL/AlokNL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
